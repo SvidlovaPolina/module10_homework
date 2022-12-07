@@ -1,0 +1,59 @@
+.btn {
+    padding: 5px;
+    background-color: transparent;
+    border: 7px;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    box-shadow: none;
+    cursor: pointer;
+    
+    border-radius: 1px;
+    font-size: 12px;
+    line-height: 15px;
+    color: black;
+    background: #64ABD0;
+  }
+  
+  .chat {
+      width: 303px;
+      border-color: #64ABD0;
+      border-width: 3px;
+      background: transparent;
+      border-style: solid;
+      margin-top: 4px;
+      padding: 10px;
+  }
+    
+  .server {
+      color: blue;
+      border-color: #64ABD0;
+      border-width: 3px;
+      border-radius: 8px;
+      background: transparent;
+      border-style: solid;
+      padding: 5px 5px;
+  }
+  
+  .user {
+      color: black;
+      border-color: #64ABD0;
+      border-width: 3px;
+      border-radius: 8px;
+      background: transparent;
+      border-style: solid;
+      padding: 5px 5px;
+  }
+  
+  .paragraph1 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  /*.map {
+      border-color: #64ABD0;
+      border-width: 3px;
+      border-radius: 8px;
+      background: transparent;
+      border-style: solid;
+      padding: 5px 5px;
+  }*/
